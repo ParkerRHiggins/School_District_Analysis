@@ -17,14 +17,14 @@ The school board has requested the following deliverables for the analysis.
   - The average reading did not seem to be affected.
   - The percent of students passing reading decreased ~1%.
   - The overall passing rate dropped ~1%.
-  ![](Resources/NewDistrictSummary)
+  ![](Resources/NewDistrictSummary.png)
 
 - How is the school summary affected?
   - Thomas High School was the only school to be affected by the changes.
   - The percentage of students passing math dropped significantly from 93.2% to 66.9%.
   - The percentage of students passing reading dropped significantly from 97.3% to 69.7%.
   - The overall passing percentage also significantly dropped from 90.9 to 65.1%.
-  ![](Resources/NewSchoolSummary)
+  ![](Resources/NewSchoolSummary.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - Thomas High School’s performance should drop relative to the other schools.
@@ -34,8 +34,8 @@ The school board has requested the following deliverables for the analysis.
   - Scores by school should decrease with the updated dataset.
   - Scores by school size should decrease with the updated dataset.
   - Scores by school type should decrease with the updated dataset.
-  ![](Resources/ScoresBySchoolSpending)
-  ![](Resources/ScoresBySchoolType)
+  ![](Resources/ScoresBySchoolSpending.png)
+  ![](Resources/ScoresBySchoolType.png)
 
 ## Summary
 Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
